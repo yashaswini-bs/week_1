@@ -11,7 +11,7 @@ This failure is not due to a lack of public willingness, but a two-part "informa
 
 
  
- . The Solution: What We Are Buildin
+ **THE SOLUTION PROPOSED: What We Are Building**
 
 We are building the "E-Cycle Coach," a full-stack, AI-powered web application that solves both problems. It's not just a sorting tool; it's a **gamified social platform** that turns recycling from a chore into an engaging, collaborative community effort.
 
